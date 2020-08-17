@@ -1,0 +1,106 @@
+body{
+	font-family: "Times New Roman", Times, san-serif;
+
+	margin: 0;
+	padding: 0;
+}
+#header-nav{
+	background-color: lightskyblue;
+	border-radius: 0px;
+	border: 0; 
+	padding: 0;
+} 
+.navbar-brand{
+	height: auto;
+	width: auto;
+}
+h1{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+.navbar-brand a:link {
+  text-decoration: none;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -52px;
+}
+
+h2{
+  color: black;
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+p{
+  padding: 15px;
+  padding-top: 35px ;
+}
+.p1{ 
+  background-color: lightpink;
+  border: 1px solid black;
+  margin: 15px;
+  
+}
+.p2{
+  background-color: lightblue;
+  border: 1px solid black;
+  margin: 15px;
+ 
+}
+.p3{
+  background-color: lightgreen;
+  border: 1px solid black;
+  margin: 15px;
+ 
+}
+
+
+#chicken{
+  border: 1px solid black;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  padding-top: 5px;
+  font-weight: bold;
+ margin: -1px auto 0 auto;
+  background-color: lightcyan;
+}
+#beef{
+  border: 1px solid black;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  padding-top: 5px;
+  font-weight: bold;
+ margin: -1px auto 0 auto;
+  background-color: lightgoldenrodyellow;
+}
+#sushi{
+  border: 1px solid black;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  padding-top: 5px;
+  font-weight: bold;
+  margin: -1px auto 0 auto;
+  background-color: lightslategray;
+}
